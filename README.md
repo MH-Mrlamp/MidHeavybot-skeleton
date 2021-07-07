@@ -13,7 +13,7 @@ create ".env" file outside the src folder
 
 head over to https://discord.com/developers/applications
 create an application and head to bot to create a bot
-copy the token id and paste in the .env file (key this token secure as we dont want it public on github as anyone can make changes to the bot)
+copy the token id and paste in the .env file (keep this token secure as we dont want it public on github as anyone can make changes to the bot)
 
 once pasted, in the gitignore file add the .env 
 
