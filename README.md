@@ -19,7 +19,7 @@ head over to https://discord.com/developers/applications
 
 create an application and head to bot to create a bot
 
-copy the token id and paste in the .env file (keep this token secure as we dont want it public on github as anyone can make changes to the bot)
+copy the token id and paste in the .env file (keep this token secure as we dont want it public on github as anyone can write code using your token)
 
 once pasted, in the gitignore file add the .env 
 
